@@ -11,3 +11,6 @@
 # y git switch para cambiar. Aunque en su defecto se puede usar
 # git branch -b para crear y cambiar al mismo tiempo. 
 # Entro en vscode y edito este archivo. 
+# Después de esto realizo un git add --all para subir todo
+# Realizo un git commit -m "Estructura inicial proyecto"
+# Actualizo este fichero dos veces realizando los siguientes commits
