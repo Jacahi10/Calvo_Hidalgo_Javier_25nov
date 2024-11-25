@@ -14,3 +14,8 @@
 # Después de esto realizo un git add --all para subir todo
 # Realizo un git commit -m "Estructura inicial proyecto"
 # Actualizo este fichero dos veces realizando los siguientes commits
+# Debe aclararse que aunque los comentarios de los commits son
+# ADD: archivo .gitignore y UPDATE: archivo README.md, los commits
+# realizados simplemente reflejan cambios en este mismo archivo,
+# puesto que ese add y update se realizó con anterioridad a la 
+# ejecucion del commit. 
